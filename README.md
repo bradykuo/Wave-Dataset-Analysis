@@ -131,11 +131,7 @@ Each model provides:
 3. Hsu et al. (2019) - Grafting technique implementation
 
 ## Contributing
-This project welcomes contributions in:
-- Implementation optimization
-- Additional modeling approaches
-- Enhanced visualization techniques
-- Documentation improvements
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 This project is available for academic and educational purposes.
