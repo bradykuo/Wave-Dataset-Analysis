@@ -1,7 +1,8 @@
 # Wave Dataset Analysis 
 
-## Overview
-This project implements and compares different classification and variable selection methods on the modified wave dataset (Breiman et al., 1984; Rakotomalala, 2005). The analysis is implemented in both R and Python, providing comprehensive comparisons of different modeling approaches.
+This project implements and compares different classification and variable selection methods on the modified wave dataset (Breiman et al., 1984; Rakotomalala, 2005). The analysis is implemented in both R and Python, providing comprehensive comparisons of different modeling approaches.<br>
+<br>
+（成大統計系｜機器學習｜作業）
 
 ## Dataset Description
 - **Size**: 33,334 subjects (10,000 for training)
